@@ -5,13 +5,18 @@
 </p>
 
 # Italo Dantas
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>Coordenador de Projetos</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sou um profissional dedicado e apaixonado por tecnologia, formado em Gestão da Tecnologia da Informação e atualmente cursando pós-graduação em Big Data e Inteligência Artificial. Com mais de 8 anos de experiência na área de TI.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Como Coordenador de Projetos na Itarget Tecnologia, sou responsável por liderar e apoiar projetos, resolvendo problemas imediatos e garantindo a precisão do cronograma de projetos voltados para a gestão de eventos. Participo de reuniões semanais com clientes, elaboro relatórios técnicos e gestão de tickets. Além disso, realizo treinamentos presenciais e remotos
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Atualmente estou focando nos estudos das seguintes áreas:
+- Desenvolvimento Web: HTML, CSS, PHP e JAVASCRIPT
+- Data Science
+- Big Data
+- Inteligência Artificial 
+
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
@@ -22,7 +27,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Analisando os Dados do Airbnb - França:** [https://bit.ly/2L2cMwy](https://bit.ly/4cfJ8O4) - Em desenvolvimento
+* **Analisando os Dados do Airbnb - Paris, França:** [https://bit.ly/2L2cMwy](https://bit.ly/4cfJ8O4) - Em desenvolvimento
 
 
 ---
